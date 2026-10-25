@@ -1,0 +1,1068 @@
+Jour. Petrol. Soc. Korea Vol. 26, No. 4, p. 373~384, 2017
+https://doi.org/10.7854/JPSK.2017.26.4.373
+373
+보
+고
+달 자원 탐사와 달 기지 연구 동향
+김 경 자*
+한국지질자원연구원 국토지질연구본부
+A Research Trend on Lunar Resources and Lunar Base
+Kyeong Ja Kim*
+Geological Research Division, Korea Institute of Geoscience and Mineral Resources,
+124 Gwahak-ro, Yuseong-gu, Daejeon 34132 Korea
+요약: 4차 산업 혁명의 시작은 우주산업의 발달을 초래하며 인류가 지구 밖으로 인류의 활동영역을 넓혀가
+는 첫 계기를 가져다주었다. 아폴로 프로그램이후 달 자원 탐사 및 달 기지 건설이 현실화 되고 있는 것은
+미국의 LCROSS (The Lunar Crater Observation and Sensing Satellite)와 LRO (Lunar Reconnaissance
+Orbiter)의 보다 진보적인 과학적 발전과 중국 창어 미션 등 최근 아시아 국가들이 내놓은 과학적인 새로운
+발견이 크게 관여하였다. 달의 극지 자원은 물과 함께 휘발성 물질들이며 현지에서 활용이 요구되므로 인류
+의 달 기지 건설에 있어서 더욱 중요하다. 헬륨-3는 화석연료가 고갈 될 쯤에는 대체에너지로 활용될 수 있
+다. 현재 러시아, 유럽과 미국 뿐 만아니라 아시아에서도 달 표면 착륙을 통한 달 탐사와 인류의 향후 기지
+건설에 대한 준비는 지속적으로 이어 질 것으로 전망되고 있다. 이러한 시점에서 정확한 달 자원을 이해하고
+달 자원 탐사와 활용을 위한 준비는 보다 중요한 현실이라는 점을 고려하여 이 논문은 달 자원 탐사와 달
+기지에 대하여 고찰하였다.
+핵심어: 달 자원, 헬륨-3, 달 기지, 현지 활용, 원소지도
+Abstract: A new era with the 4th Industrial Revolution certainly brings new opportunities for human to
+explore human’s activities outside of the Earth. After the Apollo program, exploration for lunar resources
+and establishment of lunar base seem to be in reality. This could be due to new findings by the LCROSS
+and LRO proving the advanced scientific development and new scientific results about the moon from
+Asian countries including China with Chang’E missions. It is expected that fossil fuels will be in shortage
+in the near future and at this time, Helium-3 could be an energy resource as a replacement of the fossil
+fuels. At present it is well known that countries like Russia, USA, and Europe will continue to investigate
+on lunar exploration especially with landers toward future human activities on the moon to establish a
+lunar base. With this point of view, it is important for human to understand lunar resources and prepare
+for prospective utilization of lunar resources. This review paper considers on a point of view in both lunar
+resource exploration and establishment of lunar base.
+Keywords: Lunar Resources, Helium-3, Lunar Base, In-situ, Elemental Map
+서
+언
+미국과 러시아는 모두 1959년에 파이오니어 4호와
+루나 1호를 발사함으로 시작되고 달 주위를 선회하였
+다. 이후로 두 나라는 약 65차례 달 탐사를 수행하였
+다. 2000년대에 들어서는 아시아 국가들인 일본, 인
+도, 중국도 달 궤도 탐사선, 착륙선을 보내기 시작하
+여 많은 과학적인 발견을 주도적으로 얻어냈으며, 앞
+으로도 달 착륙 프로그램을 통한 달 탐사를 준비하고
+있는 상황이다(Table 1)(Wikipedia, 2017a). 아폴로
+시대의 발견이 달의 모습을 가까이에서 사진을 찍고,
+*Corresponding author
+Tel: +82-42-868-3669
+E-mail: kjkim@kigam.re.kr
+
+--------------------
+374
+김 경 자
+ 
+J. Petrol. Soc. Korea
+유인 탐사를하고 달 시료를 가져와 지구암석과 비교
+하는 것이 큰 임무였던 반면 클레멘타인(Clementine),
+루나 프로스펙터(Lunar Prospector) 미션의 중요한 발
+견은 달에서의 물의 존재의 가능성을 제시하고 또 극
+지에서의 물의 함량을 산정해 낸 것이다. 이후로 진
+행된 아시아 국가들의 달 미션 중 인도의 찬드라얀
+미션의 달 전체에서 보여지는 물 분자나 수산기에 대
+한 지도는 보다 획기적인 발견으로 이야기 할 수 있
+다. 이후 진행된 미국의 달 정찰선 LRO/LCROSS
+미션의 달에서의 약 10% 이상의 물의 발견과 달 남
+극 LCROSS 충돌분지에서 발견된 여러 휘발성 물질
+들과 희귀금속의 발견은 달 극지역의 영구동토에서
+10억년에 1 mm 정도만 유입된 혜성이나 소행성 물질
+이 소실된다는 것을 확인하여(Paige et al. 2010), 달
+Table 1. History of Lunar Exploration (Wikipedia, 2017a)
+Russia
+Luna 1
+01/02/59
+Flyby
+Russia
+Luna 14
+04/07/68
+Orbiter
+USA
+Pioneer 4
+03/03/59
+Flyby
+Russia
+Zond 5
+09/15/68
+Return Probe
+Russia
+Luna 2
+09/12/59
+Impact
+Russia
+Zond 6
+11/10/68
+Return Probe
+Russia
+Luna 3
+10/04/59
+Probe
+USA
+Apollo 8
+12/21/68
+Crewed Orbiter
+USA
+Ranger 1
+08/23/61
+Att. Flight
+USA
+Apollo 10
+05/18/69
+Orbiter
+USA
+Ranger 2
+11/18/61
+Att. Flight
+Russia
+Luna 15
+07/13/69
+Orbiter
+USA
+Ranger 3
+01/26/62
+Att. Impact
+USA
+Apollo 11
+07/16/69
+Crewed Landing
+USA
+Ranger 4
+04/23/62
+Impact
+Russia
+Zond 7
+08/07/69
+Return Probe
+USA
+Ranger 5
+10/18/62
+Att. Impact
+USA
+Apollo 12
+11/14/69
+Crewed Landing
+Russia
+Luna 4
+04/02/63
+Flyby
+USA
+Apollo 13
+04/11/69
+Crewed Orbiter.abort
+USA
+Ranger 6
+01/30/64
+Impact
+Russia
+Luna 16
+09/12/70
+Sample Return
+USA
+Ranger 7
+07/28/64
+Impact
+Russia
+Zond 8
+10/20/70
+Return Probe
+USA
+Ranger 8
+02/17/65
+Impact
+Russia
+Luna 17
+11/10/70
+Rover
+USA
+Ranger 9
+03/21/65
+Impact
+USA
+Apollo 14
+01/31/71
+Crewed Landing
+Russia
+Luna 5
+05/09/65
+Impact
+USA
+Apollo 15
+07/26/71
+Crewed Landing
+Russia
+Luna 6
+06/08/65
+Att. Lander
+Russia
+Luna 18
+09/02/71
+Impact
+Russia
+Zond 3
+07/18/65
+Flyby
+Russia
+Luna 19
+09/28/71
+Orbiter
+Russia
+Luna 7
+10/04/65
+Impact
+Russia
+Luna 20
+02/14/72
+Sample Return
+Russia
+Luna 8
+12/03/65
+Impact
+USA
+Apollo 16
+04/16/72
+Crewed Landing
+Russia
+Luna 9
+01/31/66
+Lander
+USA
+Apollo 17
+12/07/72
+Crewed Landing
+Russia
+Luna 10
+03/31/66
+Orbiter
+Russia
+Luna 21
+01/08/73
+Rover
+USA
+Surveyor 1
+05/30/66
+Lander
+Russia
+Luna 22
+06/02/74
+Orbiter
+USA
+Lunar Orbiter 1
+08/10/66
+Orbiter
+Russia
+Luna 23
+10/28/74
+Lander
+Russia
+Luna 11
+08/24/66
+Orbiter
+Russia
+Luna 24
+08/14/76
+Sample Return
+USA
+Surveyor 2
+09/20/66
+Att. Lander
+Japan
+Hiten
+01/24/90
+Flyby and Orbiter
+Russia
+Luna 12
+10/22/66
+Orbiter
+USA
+Clementine
+01/25/94
+Orbiter
+USA
+Lunar Orbiter 2
+11/06/66
+Orbiter
+China
+AsiaSat 3/HGS-1
+12/24/97
+lunar Flyby
+Russia
+Luna 13
+12/21/66
+Lander
+USA
+Lunar Prospector
+01/07/98
+Orbiter
+USA
+Lunar Orbiter 3
+02/04/67
+Orbiter
+ESA
+SMART 1
+09/27/03
+Lunar Orbiter
+USA
+Surveyor 3
+04/17/67
+Lander
+Japan
+Kaguya (SELENE)
+09/14/07
+Lunar Orbiter
+USA
+Lunar Orbiter 4
+05/08/67
+Orbiter
+China
+Chang'e 1
+10/24/07
+Lunar Orbiter
+USA
+Surveyor 4
+07/14/67
+Att. Lander
+India
+Chandrayaan-1
+10/22/08
+Lunar Orbiter
+USA
+Lunar Orbiter 5
+08/01/67
+Orbiter
+USA
+LRO & LCROSS
+06/17/09
+Orbiter/Impactor
+USA
+Surveyor 5
+09/08/67
+Lander
+China
+Chang'e 1
+10/01/10
+Lunar Orbiter
+USA
+Surveyor 6
+11/07/67
+Lander
+USA
+GRAIL
+09/2011
+Lunar Orbiter
+USA
+Surveyor 7
+01/07/68
+Lander
+USA
+LADEE
+10/2011
+Lunar Orbiter
+
+--------------------
+달 자원 탐사와 달 기지 연구 동향
+375
+Vol. 26, No. 4, 2017
+극지에는 물을 비롯한 휘발성 물질과 희귀금속 등의
+자원을 활용하여 향후 인류가 정착할 수 있다는 가능
+성을 충분히 제시하게 되어 달 탐사의 방향도 자원탐
+사 및 활용으로의 새로운 길목으로 접어들게 되었으
+며 이에 따른 후속 연구 및 달 탐사가 더욱 활성화
+되고 달 영구기지를 유럽-러시아는 2030년 까지 건설
+하겠다고 표명하는 시점에 이르렀다. 이제 아폴로 시
+대 보다 더 활성화 된 달 탐사 경쟁시대가 열렸으며,
+미국은 유인 탐사 계획을 표명하였다. 특히 LRO와
+SELENE (Selenological and Engineering Explorer)
+이 탑재한 카메라 이미지 분석에 의해 달 표면에서 확
+인된 수 많은 용암동굴의 입구 형상과 최근 50 km의
+용암동굴의 확인은 인류가 새로운 거주영역으로서의
+동굴을 선택할 수 있는 가능성도 제시하는 등 보다
+새로운 달 표면에서의 인류의 활동을 전망케 하였다.
+이러한 현실에서 세계 주요 국가들은 달 탐사를 자원
+채취 및 현지 활용에 집중할 것으로 내다보고 있으며,
+달은 화성과 더 먼 곳으로 여행하기 위한 전진기지로
+서의 역할과 인류가 생활 영역권을 달 까지 확장시킬
+수 있을 것으로 인류는 기대하기 시작하고 있다. 인
+류의 달 및 화성 기지 건설은 어느 특정 국가의 이
+익 보다는 21세기 인류 전체가 지향하는 새로운 우주
+기술의 도약과 과학적 발전을 의미한다. 특별히 과거
+미션들은 우주환경과 지질탐사가 그 주를 이루었던
+방면, 앞으로는 달에서 지질자원을 채굴하고 활용을
+위한 자원추출을 더욱 더 고려해야 하는 실정이며,
+이러한 세계동향과 함께 지금까지 얻어진 달 탐사 결
+과들을 고찰 하면서 향후 달 탐사를 위한 준비가 되
+도록 대한 논의를 하였다.
+달 자원의 발견
+달 자원의 발견은 아폴로 귀환시료를 측정한 때부
+터라고 할 수 있다. 지구로 가져온 암석들에서 헬륨-
+3을 발견하고 또 암석내에 헬륨-3의 양을 조사하고,
+달 착륙지별 그 부존량을 산정한 것은 바로 이때부터
+시작되었다. 아폴로 프로그램에 따른 귀환시료는 미
+국의 경우 382 kg은 달의 바다 및 고산지역에서 수집
+했으며(Lucey et al. 2006), 러시아의 경우도 170.1 g
+의 귀환시료를 분석하고(Wikipedia, 2017b) 달 표면
+의 토양과 암석에 대한 이해를 할 수 있었다. 아폴로
+시대에 이루어졌던 자원의 발견 및 산정은 바로 헬륨
+-3의 분석과 달 표면에서의 분포도를 귀환시료를 대
+상으로 예상치를 산정하는 것이었으며, 이후 클레멘
+타인 미션에서는 달의 광물지도인 철, 티타늄을 얻는
+것이 새로운 발견이었다. 또한 영구동토의 존재를 확
+인함은 물의 존재의 가능성도 처음으로 제시할 수 있
+었다. 1998년에 발사된 루나 프로스펙터는 열외중성
+자에 의한 물 지도 및 자연방사성 원소인 토륨과 칼
+륨 지도를 작성하였다. 이러한 과거 미션들은 대부분
+원격탐사에 의한 결과를 얻은 것이며, 달 표면에서의
+자원의 이해를 얻는 지도를 작성해 내는 데 큰 역할
+을 하였다. 루나 프로스펙터와 가구야 미션의 감마선
+분광기는 여러 주요 원소 지도를 제시할 수 있었고
+가구야 미션의 감마선 분광기에서 처음으로 우라늄
+지도를 생산하였다. 이러한 궤도선 원격탐사 이후 창
+어-3을 엑스선 분광기를 사용해 달 표면에서의 원소
+분석을 할 수 있었지만 오래 지속적인 측정은 로버
+생존이 어려워 불가능 하였다. 이러한 인류의 달 자
+원의 발견 및 분포를 산정하는 단계는 앞으로 달 표
+면 현지에서 확인하고 또 활용하기 위한 추출 실험으
+로 진화해 가고 있는 실정이다. 인류는 약 10년 후에
+는 달에서 생존할 영역에 정착하고 자원을 현지에서
+활용하고 또 지구에서 필요한 헬륨-3과 같은 에너지
+자원을 제공할 자원 채취 활동을 개시 할 꿈을 꾸고
+있는 현실에 와 있다.
+달 자원 종류와 분포
+달 표면에서의 얻어지는 경제가치가 가장 높은 
+헬륨-3 (3He)
+달 표면에서의 에너지 자원은 우라늄과 헬륨-3으로
+들 수 있지만 우라늄의 경우는 농도가 약 2 ppm을
+선회하는 것으로(Yamashita et al. 2012) 지구 표면
+의 우라늄 함량 보다 훨씬 낮은 편이며, 지구로 가져
+오는 것은 큰 소득이 없으나 현지에서 활용은 가능할
+수도 있다. 헬륨-3의 경우는 다르다. 지구에서의 헬륨
+-3는 거의 없다고 해도 과언이 아니다(Table 2)
+(Kulcinski et al. 1990; Kulcinski et al. 2000). 헬
+륨-3은 대기 중에 약 4,000 톤이 존재하고 판 경계
+면 지역에서의 천연가스에 약 1000톤이 존재하는 것
+으로 알려졌다. 지구에서는 채산성은 너무 낮아 1년
+에 25 kg 정도 생산할 것으로 추정한다(Wittenberg
+1988). 아폴로 귀환시료를 통해 산정한 경제적 가치
+는 달 표면에서의 헬륨-3은 약 2.47 메가 톤이 존재
+하는 것으로 알려졌다(Slyuta et al. 2007). 25톤의
+
+--------------------
+376
+김 경 자
+ 
+J. Petrol. Soc. Korea
+헬륨-3은 1986년 미국의 1년간 에너지를 충당할 수
+있는 계산되어(Shrunk et al. 2008) 1톤의 헬륨-3은
+약 $3B 가치가 있는 것으로 밝혀졌으며, 이러한 계산
+으로 보면 달 표면에서 채굴할 수 있는 헬륨-3의 총
+가치는 약 백만조원이 되는 것으로 파악되었다. 태양
+풍으로 달에 도착하는 헬륨입자들은 헬륨-3과 헬륨-4
+와 섞여 있는 상태이다. 달 표면에 도달하는 헬륨-3
+은 태양풍의 5%만(Shrunk et al. 2008)이 달 표면에
+도착하면서 표면층의 부드러운 광물인 일메나이트
+(FeTiO3)에 비교적 많이 충적되어 있는 것으로 알려
+져 있다(Shrunk et al. 2008). 헬륨-3은 달이 형성된
+후 태양으로부터 날아와서 계속 달 표면에 누적된 것
+으로 보면 된다. 헬륨-3는 특히 고요의 바다(The Sea
+of Tranquillity)에 가장 많이 매장되어 있는 것으로
+약 8천톤이 2 미터 깊이에 매장되어 있는 것으로 알
+려졌다(Shrunk et al. 2008). Fig. 1과 2는 헬륨-3
+지도와 헬륨-3을 포함하고 있는 티타늄 원소지도를
+각각 보여주고 있다. Fig. 3은 MoonTrek 웹사이트에
+서 Fe원소 지도를 합성한 지도이다. 헬륨-3을 이용한
+달 표면에서의 에너지 자원 활용은 기술면에서 아직
+어려운 상황이며, 2050년경 화석연료가 고갈되고 지
+구에서의 대체에너지원으로 고려되는 헬륨-3은 경제
+가치가 아주 높은 것으로 알려져 있다. 한 연구 결과
+에 따르면 헬륨-3만을 사용한 핵융합 발전은 중성자
+를 생산하지 않아 안전하고 에너지 효율이 높고, 또
+한 부산물로 생산되는 양성자와 헬륨-4는 의료용과
+극저온 물질로 각각 사용할 수 있다는 장점이 있으며
+중성자를 융합시키는 것 보다 에너지 발생은 두배 이
+상인 것으로 알려져 있다(Kulcinski and Schmitt,
+2000). 헬륨-3을 많이 포함하고 일메나이트 광물은 약
+섭씨 600~700도에서 가열하면 헬륨-3를 추출할 수
+있는데(Shrunk et al. 2008; Kulcinski et al 2000)
+부산물로 생성되는 수소는 추진체 연료 등으로 사용
+하며, 기타 기체들은 인류가 생존하기 위한 휘발성
+기체로 활용하며(Table 3), 철, 티타늄 등의 광물 성
+분들은 달 표면에서 활용할 수 있을 것으로 전망하고
+있다. 헬륨-3은 중수소와 결합하여 얻어지는 융합에
+너지를 우주연료로 사용하면 보다 먼 거리를 짧은 시
+간에 우주탐사를 수행할 수 있는 장점을 가지고 있다.
+Table 2. Inventory of 3He in the Earth and Moon
+Earth 
+Proved Probable Possible Speculate
+Atmosphere
+4000
+-
+-
+-
+Ocean
+13
+-
+-
+-
+US crustal
+natural gas
+0.23
+0.18
+0.2
+0.08
+Subduction zone 
+natural gas
+-
+-
+1000
+25,000
+Mantle gas
+-
+-
+-
+106 to 107
+Moon
+Location
+% Lunar 
+Surface
+Avg. H 
+Conc. wt 
+ppm
+Tonnes 
+3He
+Maria
+20
+30
+600,000
+Highlands
+Basin Ejecta
+80
+7
+500,000
+Total
+1,100,000
+Fig. 1. Helium-3 on the Moon (ppb/m2) (Fa & Jin, 2007).
+
+--------------------
+달 자원 탐사와 달 기지 연구 동향
+377
+Vol. 26, No. 4, 2017
+달 극지 자원 함량
+미국의 LCROSS (Lunar Crater Observation and
+Sensing Satellite)와 LRO (Lunar Reconnaissance
+Orbiter)의 달 탐사는 2009년 6월에 발사되었으며,
+LCROSS의 남극분지 캐비우스(Cabeus)에 충돌한 결
+과로 얻어진 새로운 결과에 따라 향후 인류가 달의
+극지방의 자원 활용의 가능성을 새롭게 제시하였다.
+LCROSS는 달 표면에서 인류가 달 기지를 건설할
+때 필요한 물을 남극지역에서 발견했다고 발표했으며,
+LRO는 달 궤도를 50 km에서 돌며 달의 물을 포함
+한 자원탐사 및 달의 방사환경을 초점으로 인류의 달
+기지 건설의 초석을 다지게 되었다. LRO에 탑재된
+Diviner 분광기의 결과는 달 표면의 영구동토에는 달
+생성 후 수십억 년간 혜성이나 소행성에 의해 유입된
+물을 포함한 휘발성물질이나 희귀금속 등은 달 표면
+에 계속 충적된 것으로 추정되었고, 이러한 물질들이
+달 표면에서 침식되는 정도는 1 mm/10억년 정도인
+것으로 밝혀져(Fig. 5)(Piage et al. 2010) 영구동토의
+자원 활용의 중요성을 제시하였다(Table 4)(Colaprete
+et al. 2010; Gladston et al. 2010). 이러한 새로운
+결과는 미국 등 세계 주요 국가들이 화성 등 보다
+먼 태양계내의 행성으로 향한 인류의 장기적인 행성
+탐사를 계획함에 있어서 중간 기지로서의 달 기지의
+건설 및 자원 활용에 대한 계획도 중요하게 다루는
+계기를 가지게 하였다. Table 4에 보이는 바와 같이
+LRO/LCROSS 달 탐사의 결과 달의 영구 동토 지역
+인 남극 지역에는 여러 휘발성 물질들의 함유량을 확
+인했으며, 금, 은, 수은 등 희귀 금속의 함량이 높음
+을 확인하였으며 이는 달 외부에서 유입된 것으로 추
+정하고 있다(Gladstone, et al. 2010)(Table 4).
+Fig. 3. A combined local area map for the Fe
+concentrated region generated with NASA’s MoonTrek
+for 50% FeO (Clementine), 50% (Fe Lunar Prospector),
+and 50% Soil Maturity map (Clementine).
+Table 3. Gaseous by-products of heating lunar ilmenite
+at 700oC
+Isotope, Molecule, 
+or Compound
+kg of Volatile 
+Component per
+kg of 3He
+Usage
+H2
+6,100
+Fuel
+4He
+3,100
+cryogenics
+H2O
+3,300
+Life support
+N2
+500
+Life support
+CH4
+1,600
+Life support
+CO2
+1,700
+Life support
+CO
+1,900
+utilization
+Fig. 2. Ti abundance map (wt%) of 20 pixels per
+degree resolution of a part of western Oceanus
+Procellarum (Kim et al. 2016) showing low-Ti and
+high-Ti mare basalts. Map constructed based on LP
+GRS data and M³ hyperspectral image data (Kim et
+al. 2016).
+
+--------------------
+378
+김 경 자
+ 
+J. Petrol. Soc. Korea
+극지 자원 탐사 및 활용
+광물탐사를 위해 쓰이는 탑재체는 영상분광기인 경
+우 파장영역을 분석해 광물 종류를 판별하거나 반사
+도 및 흡수영역을 조사하는 경우로 광물의 함량도 칼
+리브레이션(Calibration)을 통해 산정할 수 있다. 물
+자원을 알 수 있는 경우는 중성자 검출기, 적외선 분광
+기 등이며, 또한 감마선 분광기(Gamma-Ray Spectro-
+meter, GRS)의 에너지 스펙트럼의 경우 2.223 MeV
+영역에서 수소에 해당되는 감마선 피크를 분석함으로
+물의 존재 및 함량을 구할 수 있다. 자원탐사를 위해
+쓰이는 대표적인 탑재체는 행성표면에서 여러 가지
+행성표면의 구성 원소를 분석할 수 있는 감마선 분광
+기 이다. 아폴로 프로그램 이후 감마선 분광기 센서
+Fig. 4. Elemental Concentrations to the plume spectrum observed by the LAMP (Gladstone et al. 2010).
+Fig. 5. Day temperature of the lunar south pole
+modified after Piage et al. 2010(NASA, 2017a).
+Table 4. Abundances derived from spectral fits of NIR
+ Compound
+Molecules cm-2
+% Relative to 
+H2O(g)
+H2O
+5.1(1.4)E19
+110%
+H2S
+8.5(0.9)E18
+16.75%
+NH3
+3.1(1.5)E18
+6.03%
+SO2
+1.6(0.4)E18
+3.19%
+C2H4
+1.6(1.7)E18
+3.12%
+CO2
+1.1(1.0)E18
+2.17%
+CH3OH
+7.8(42)E17
+1.55%
+CH4
+3.3(3.0)E17
+0.65%
+OH
+1.7(0.4)E16
+0.03%
+Soil abundance
+assum. 10,000 kg soil
+% mass
+Hg
+1.2%
+H2
+1.4%
+CO
+5.7%
+
+--------------------
+달 자원 탐사와 달 기지 연구 동향
+379
+Vol. 26, No. 4, 2017
+는 염화요오드(NaI)에서 부터 에너지 분해능이 높은
+고순도 게르마늄(HPGe) 검출기를 사용하는 것으로 발
+전을 거듭해왔다. 그리고 최근에는 냉각기를 사용하
+지 않지만 분해능이 비교적 높은 란터넘브로마이드
+(LaBr3)를 적용하는 단계까지 이르렀으며, 이러한 발
+전 속에 아폴로 15/16 (Metzger et al. 1993), 루나
+프로스펙터(Feldman et al. 1999), 가구야, 창어, 찬
+드라얀(실패) 6차례 감마선 분광기를 이용한 달 표면
+지질자원 조사를 해왔다. 달 표면에는 자연방사성원
+소, 주요 구성성분, 미량원소, 희토류 등이 존재하며
+이들 원소들을 감마선 분광기를 이용하여 측정할 수
+있음에도 불구하고 아직까지 자연방사성원소(U, Th,
+K)와 달의 주요 구성 원소인 Fe, Mg, Ti, Si, Ca,
+Al 등의 몇 개의 원소지도를 작성 할 수 있었다
+(Hasebe et al. 2009; Zhu et al. 2015)(Fig. 6).
+Fig. 2와 Fig. 7는 루나 프로스펙터 감마선 분광기의
+Fig. 6. Comparison of Gamma-Ray Spectra from Kaguya and Chang’E-2 orbiters (Zhu et al. 2015).
+Fig. 7. A high resolution Si map produced by Kaguya GRS and Chandrayaan-1 mineralogical map (Kim et al. 2016b).
+
+--------------------
+380
+김 경 자
+ 
+J. Petrol. Soc. Korea
+Ti 지도와 가구야 감마선 분광기의 Si 지도를 각각
+나타낸다. 이러한 지도들이 달 자원을 산정할 수 있
+는 감마선 분광법을 이용한 원소지도의 대표적인 예
+들이다. Ti의 경우는 특히 헬륨-3의 함량을 산정하는
+데 필요하며, Si의 경우는 태양전지나 유리를 만들기
+위한 자원으로 활용될 수 있는 자원지도이다(Kim et
+al. 2016 a,b). 현재까지 대부분의 연구는 달 표면 지
+질에 대한 연구에 집중된 것이 특징이며, 달 자원에
+관련된 연구는 충분히 진행되지 못했다. 2030년에 건
+설 계획인 인류의 달 기지 건설을 고려한다면, 향후
+감마선 분광기를 이용한 연구는 보다 자원 탐사 및
+현지 활용에 접목한 감마선 분광기의 달 궤도 및 달
+표면 지질에 대한 감마선 분광기 적용 연구를 시도
+하는 것이 바람직하다. 자원탐사를 위한 감마선 분광
+기의 적용은 궤도선 보다는 착륙선에 탑재되어 현장
+(in-situ) 감마선 분광기를 통한 현지 자원 탐사가 절
+실히 요구된다고 하겠다. 이러한 현장탐사용 감마선
+분광기는 중성자원을 동시에 사용하는 것으로 좁은
+영역의 자원 분포를 조사할 수 있는 것이 특징이다.
+향후 감마선 분광기를 이용한 달 자원 탐사는 자연방
+사성 원소, 희토류 원소, 주요 성분, 미량 원소, 휘발
+성 원소 성분의 탐색으로 이어질 수 있으며, 이를 위
+한 노력은 미래 인류의 달 기지 건설 및 자원 활용
+에 큰 보탬이 될 것으로 전망한다.
+달 주거지역의 가능성
+달 표면에서 고려되고 있는 3D 프린팅 건축물
+인류는 지구에서의 생활권 영역을 달에 방문하는
+것으로 이미 1960년대에 확장해 놓았다. 이제 2030
+년경에는 인류는 달 뿐 만아니라 화성도 자주 왕래하
+고 화성에도 정착하는 행성 간 여행을 하는 인류로
+진화하는 상황에 와 있다. 달은 그 즈음에는 달-지구
+-화성의 경제 영역권을 형성하는데 한 일원으로서의
+역할을 하고 화성과 그 보다 더 먼 거리로 인류가
+이동하기 위한 전진 기지로서의 역할을 해 나갈 것으
+로 기대한다. 따라서 장기적인 체류를 위한 달에서의
+구조물의 구축이 필요하다. 유럽-러시아 연합은 달에
+3D 프린팅 기술을 이용한 건축물을 지을 것을 제시
+했다(Fig. 9)(Space, 2017). 방사선 차폐와 삶의 공간
+Fig. 8. Latitudinal density plot of the lunar Si distribution
+between 60°S (left) to 60°N (right) (Kim et al. 2016b).
+Fig. 9. Concept of a construction activity on the Moon using a 3D printer (Space, 2017).
+
+--------------------
+달 자원 탐사와 달 기지 연구 동향
+381
+Vol. 26, No. 4, 2017
+을 고려하여 건축하는 것이 필요하다. 방사선 차폐를
+위한 건축물은 최소 6 m 두께가 필요하다. 3D 프린
+팅 기술은 재료만 용이하게 구한다면 쉽게 구조물을
+제작할 수 있다. 달에서의 주거공간은 달 표면에 있
+는 재료를 사용하여야 한다. 달 표면에는 암석이 있
+는 지역도 있으나 고운 토양이 덮인 지역이 많다. 이
+러한 지역은 달이 형성된 후 오랫동안 운석 등 외계
+물질들과 태양풍 등의 입자들에 의해 침식되어온 이
+유 때문이다. 이러한 달 토양의 특성을 살려 달에서
+의 구조물을 만든다면 모사토를 제작해 많은 실험을
+통해 달에서 콘크리드를 제작하여 작은 주거 공간을
+만들 수도 있다. 그림 10에서 보는 것은 얇게 3D
+프린터로 달 토양을 쌓아 간다고 하면, 이런 토양층
+을 쌓기 위해 필요한 것은 토양을 단단하게 붙어 있
+도록 하는 본드 같은 물질을 개발하는 게 아닐까 한
+다. Omar의 연구결과에 따르면 달 콘크리트는 녹인
+황을 섞어서 만드는 것에 대한 연구를 발표했으며,
+황 35% 정도에서 강도가 가장 증가한 겻으로 결론지
+었다(Omar 1998).
+우주개발의 발전과 인류의 달 및 화성표면에서의
+거주공간을 고려하는 현시점에서 NASA는 세기적 도
+전(Centennial Challenge) 프로그램에 달이나 화성에
+서 사용할 수 있는 콘크리트 제작 방법 개발도 세계
+적 경진대회에 포함시켰다(Fig. 10)(NASA, 2017b).
+전세계 달 콘크리트 제작 경진대회에서 우리나라의
+한양대학의 Moon X Construction of Seoul이 1등
+을 차지하는 두각을 나타내기도 했다. 2등과 3등은
+Forge 오레건 주립대학의 Forge팀과 Foster+Partner
+Branch Technology of Chattanooga에서 차지하였으
+며 6위까지 우승팀을 선정하였으며, 이 대회는 더 단
+계를 높여 내년에도 계속될 것으로 알려졌다. 이처럼
+인류의 지구 바깥에서의 행성 표면에서의 장기간 거
+주는 지속적이고 창의적인 도전으로 인류가 오래 행
+성표면에 거주할 수 있는 방안을 마련하는 것이 매우
+중요하다고 본다.
+달 용암동굴
+LRO 궤도선에 장착된 고해상 카메라로 확인된 달
+용암동굴로 추정되는 구덩이(pit) 등의 특성있는 지형은
+현재까지 228개로 알려졌다(Wagner and Robinson,
+2014). 최근 LRO와 SELENE에 고해상도 카메라 이
+미지를 이용한 전세계 많은 학자들이 달 동굴에 대한
+연구를 해왔으며, 그 추세가 달 기지 건설의 가능성
+이 확실해 지면서 관련연구자가 급격히 증가하는 추
+세이다. 특히 일본은 달 용암동굴은 인류의 주거 가
+능지역으로 추정되어 가구야 탐사선에 탑재된 카메라
+이미지를 분석하는 것으로 활발히 진행되어 왔으며
+(Haruyama et al. 2009), 국내에서도 젊은 층 학자들
+이 증가하는 추세에 있다(선창완 외. 2017, 홍익선
+외. 2014). 그런데 최근 일본항공우주국에서는 도시만
+한 용암동굴이 발견되었다고(Fig. 11) 발표하여 우주
+Fig. 11. 50 km size lunar lava tube discovered at
+Marius Hills (Livescience, 2017a).
+Fig. 10. Three winners in 3D concrete production at
+NASA’s Centennial Challenge competition(NASA, 2017b).
+
+--------------------
+382
+김 경 자
+ 
+J. Petrol. Soc. Korea
+비행사들의 주거지로의 활용이 제시되고 있다. 50 km
+의 길이인 이 동굴은 Marius Hills (9.5-17oN, 303.5-
+311oE)(Fig. 12-13)에 위치해 있는 skylight이 있으며
+깊이는 50 km로 추정되고 있다(Livescience, 2017a).
+거대한 용암동굴이 발견된 Marius Hills에는 한 세트
+의 현무암 돔(dome)들이 발견되는 달의 Oceanus
+Procellarum 지역이다. 약 200-500 미터 정도의 높이
+를 가지며, 직경은 약 1-2 km인 이 돔들은 달 현무
+암을 형성한 것들 현저히 점성이 있는 용암들로부터
+형성된 것으로 여겨져 왔다(Wikipedia, 2017c).
+Marius Hill의 LOLA 이미지는 Marius 분화구와 그
+주변 화산지역의 고도와 지형세를 대조적으로 잘 보
+여주고 있다(NASA, 2017c). 달에 3일 이상 있었던
+사람은 아무도 없다고 한다 그 이유는 우주비행사의
+옷만으로는 방사선 차폐가 불가능하고 극한 온도변화
+와 운석 충돌과 방사선 위험으로 벗어날 수 없기 이
+라고 Purdue 대학 신문은 이번 도시만한 용암동굴의
+발견과 함께 이러한 곳이 인간이 보다 오래 달 표면
+에서 거쳐할 수 있는 곳이라고 2017년 10월 18일
+뉴스에서 밝혔다. 이번에 발견된 용암동굴은 미국 필
+라델피아 도시의 4배가 되는 길이로 추정되고
+(Livescience, 2017b) 있어서 달 용암동굴에서의 도시
+건설은 용암동굴의 성인과 형성시기, 동굴내의 환경
+뿐만 아니라, 지구에 존재하는 용암동굴의 연구 등,
+향후 보다 정밀한 추가 연구가 필요할 것이며 이와
+관련된 연구가 더욱 활성화 될 것으로 전망 된다
+(Fig. 14).
+토의 및 결론
+인류는 1959년 이후로 현재까지 72 차례의 끊임없
+는 달 탐사프로그램을 시도해왔으며 미국과 소련 두
+나라의 달 탐사 경쟁시대 이래 반세기가 지난 오늘에
+와서 유럽 및 아시아 국가들이 대거 달 탐사에 참여
+하기 시작했으며 이제 궤도선 탐사 보다는 달 착륙선
+을 보내고, 지질 탐사 보다는 지원 탐사를 하고 더
+나아가 자원의 활용을 위한 연구 및 기술발전을 위해
+노력하고 있는 시점에 와 있다. 유럽-러시아의 달 표
+면에 영구기지 건설 계획은 최근 달 탐사에 참여하는
+Fig. 12. Oblique view of eastern Marius Hills and Marius
+crater (upper right) by Lunar Orbiter 2 (Wikipedia, 2017c).
+Fig. 13. LOLA image of the Marius Hills located in
+Oceanus Procellarum. Thea largest volcanic dome field
+on the Moon is located in this area (NASA, 2017c).
+Fig. 14. Description of a city like Philadelphia inside a theoretical lunar lava tube. (Livescience, 2017b).
+
+--------------------
+달 자원 탐사와 달 기지 연구 동향
+383
+Vol. 26, No. 4, 2017
+각 나라들의 달 탐사 계획을 더욱 가속화 시켰다.
+2017년 10월 미국정부가 달에 인간을 다시 보내겠다
+는 발표를 한 것은 달이 달 뿐 만아니라 화성과 그
+먼 곳으로 인류가 생활 영역권을 확대하는 전진기지
+로서 중요성을 인식하고 인간의 달 기지 건설을 위한
+준비 작업을 하기 위함이라고 판단된다. 2020년 우리
+나라는 시험용 궤도선을 달에 보낼 예정이고 2021년
+에는 달 자료를 생산해 지구로 전송할 것이다. 이즈
+음에는 유럽-러시아, 일본, 중국, 인도의 달 탐사도 또
+다시 궤도선 중심의 초기 달 탐사에서 달 표면 착륙
+프로그램 중심의 달 탐사가 진행될 것이다. 이러한
+전 세계 주요국가의 달 탐사 경쟁시대의 개막은 바로
+달 자원과 활용 그리고 인류의 달 표면에서의 활동영
+역을 확장하고자 하는 장기적인 계획이 화성 등 보다
+먼 태양계로의 여행과 정착이 가능하다는 시점에 이
+르렀기 때문이다. 3D 프린터를 이용한 달 표면 구조
+물의 제작은 헬륨-3을 채취하기 위한 공장을 건설하
+기 위한 인류의 달 표면에서의 공장 건설에 절대적으
+로 필요하며, 더 많은 사람들이 달에 장기적으로 거
+주하기 위해서는 달 용암동굴의 활용이 절대적으로
+필요하다고 볼 수 있다.
+이제 우리는 달의 기원이나 달 표면 지화학적인 진
+화 연구 차원의 순수과학 연구를 뛰어넘어 보다 공학
+적인 기술 발전에 집중해야 하는 상황에 이르렀다.
+달 표면에 기지를 건설하고 자원을 활용하는 모든 인
+류의 활동에는 근본적으로 달의 지질을 이해하고 암
+석학적인 이해가 보다 강조되며 또 이와 관련된 응용
+연구를 바탕으로 인류의 달에서의 삶의 터전이 마련
+되어야 함을 고려하면, 지질학도의 역할이 어느 때보
+다 강조됨을 전망한다. 앞으로 달에서의 인류의 기지
+건설 및 자원 채취 등의 많은 경제활동은 국제 혐력
+활동으로 인류의 공동 목적을 향해 추진될 것으로 전
+망된다. 예를 들어 ISECG (International Space
+Exploration Coordination Group)와 같은 활동은 15
+개국 나라가 참여해서 국제적인 행성 탐사 활동을 공
+평한 기회를 모든 나라가 가질 수 있는 기회를 더욱
+부여하고 인류가 함께 국제협력활동을 통한 행성탐사
+및 행성 거주에 노력하자는 취지에 있다. 우리나라도
+이 활동에 2017년부터 참여하고 있으며, 향후 이러한
+국제무대에서 주도적인 활동을 위해서는 관련분야의
+인프라구축 및 정부의 연구비 확대와 연구자들의 자
+발적 노력이 절실히 요구된다고 하겠다.
+사
+사
+이 논문을 심사하면서 여러 조언을 해주신 한국지
+질자원연구원의 이승구 박사님과 이윤수 박사님께 감
+사드린다. 이 논문은 2017년도 정부(과학기술정보통
+신부)의 재원으로 한국연구재단의 지원을 받아 수행
+된 달 탐사 개발 사업임(NRF-2016M1A3A9913307).
+References
+Colaprete, A., Schultz, P., Heldmann, J., Wooden, D., Shir-
+ley, M., Ennico, K., Hermal. B., 2010, Detection of Water
+in the LCROSS Ejecta Plume, Science 330, 463-468.
+Gladston, G. R, Hurley, D., Retherford, K. D. Feldman, P.
+D., Pryor, Chaufray, J-Y., Versteeg, M., W. R., Great-
+house, T. K., Steffl, A. J., Throop, H., Parker, J. W.,
+Kaufmann. D. E., Egan, A. F., Davis, M. W., Slater, D.
+C., Mukherjee, J. M., Miles, P. F., Hendrix, A. R., Cola-
+prete, A., Stern, A. 2010, LRO-LAMP Observations of
+the LCROSS Impact Plume, Science, 330, 472-476.
+Fa, W., Jin, Y-Q. 2007, Quantitative estimation of helium-3
+spatial distribution in the lunar regolith layer. Icarus 190,
+15-23.
+Feldman, W. C., Barraclough, B. L., Fuller, K. R., Law-
+rence, D. J., Mauricea, S., Miller, M. C., Prettyman T. H.,
+Binder., A. B., 1999, The Lunar Prospector gamma-ray
+and neutron spectrometers. Nuclear Instrument and Meth-
+ods A, 422, 562.
+Hasebe, N., Shibamura, E., Miyachi, T., Takashima, T.,
+Kobayashi, M-N., Okudaira, O., Yamashita, N., Kobayashi,
+S., Karouji, Y., Hareyama, M., Kodaira, S., Komatsu, S.,
+Hayatsu, K., Iwabuchi, K., Nemoto, S., Sakura, K., Miya-
+jima, M., Ebihara, M., Hihara, T., Arai, T., Sugihara, T.,
+Takeda, H., d’Uston, C., Gasnault, O., Diez, B., Forni, O.,
+Maurice, S., Reedy, R. C., and Kim, K. J., 2009, First
+Results of High Performance Ge Gamma-Ray Spectrome-
+ter Onboard Lunar Orbiter SELENE (KAGUYA), Journal
+of Physical Society of Japan, 78, 18-25.
+Hong, I. S., Y. Yi, andE. J. Kim, 2014. Lunar pit, crates
+presumed to be the Entrances of lava caves by analogy to
+the earth lava tube pits, Journal of Astronomy and Space
+Sciences, 31(2), 131-140.
+Haruyama, J., K. Hioki, M. Shirao, T. Morota, H. Hiesinger,
+Carolyn H. vander Bogert, H. Miyamoto, A. Iwasaki, Y.
+Yokota, M. Ohtake, T. Matsunaga, S. Hara, S. Nakano-
+tani, and C. M. Pieters, 2009. Possible lunar lava tube
+skylight observed by SELENE cameras, Geophysical
+Research Letters, 36, L21206.
+Kim, K. J., Wöhler, C., Hasebe, N., van Gasselt, S., Bere-
+zhnoy, A. A., Rodriguez, J. A. P., Grumpe, A. 2016,
+
+--------------------
+384
+김 경 자
+ 
+J. Petrol. Soc. Korea
+Lunar Silicon Distribution as Observed by the Kaguya
+Gamma-Ray Spectrometer and Chandrayaan-1 Moon
+Mineralogy Mapper (M3) Calibration, Lunar Planetary
+Science Conference 2016, Abstract# 1473.
+Kim, K. J., Stephan van Gasselt, S., Ju, G. W., Lee, S-R,
+Wöhler, G., Alexis P. Rodriguez, A. P., Berezhnoy, A.,
+2016, Korean Lunar Lander-Concept Study for Landing-
+Site Selection for Lunar Resources Exploration. The
+International Archives of the Photogrammetry, Remote
+Sensing (ISPRS-Archives-XLI-B4-417-2016).
+Kulcinski, G. L. Schmitt, H. H., Cameron, E. N., Sviato-
+slavsky, I.N., 1990, Mining Helium-3 from the Moon a
+Solution to Earth’s Engergy Needs in the 21st Century,
+the 1990 SME (The Society for Mining, Metallurgy, and
+Exploration) Annual Meeting, 26 Feb-1 Mar, 1990, Salt
+Lake City UT. 
+Kulcinski, G. L., Ashley, R. P., Santarius, J. F., Piefer, G.,
+Subramanian, K. M., 2000, The Development of Lunar
+3He Resources: Near-Term Applications and Long-Term
+Prospects, the 4th International Conference on Exploration
+and Utilisation of the Moon, Noordwijk, The Nether-
+lands, 10-15 July 2000.
+Kulcinski, G. L., Schmitt, H. H., 2000, Nuclear Power
+Without Radioactive Waste- The Promise of Lunar
+Helium-3, the 2nd Annual Lunar Development Confer-
+ence, “Return to the Moon II”, 20-21 July 2000, Las
+Vegas, NV.
+Livescience, 2017a. https://www.livescience.com/60733-moon-
+lava-tube-could-shelter-astronauts.html (October 21, 2017)
+Livescience, 2017b. https://www.livescience.com/60733-moon-
+lava-tube-could-shelter-astronauts.html (October 21, 2017)
+Lucey, P., Korotev, R. L., Gillis, J. J., Taylor, L. A., Law-
+rence, D., Campbell, B. A, Elphic, R., Feldman, B.,
+Hood, L. L., Hunten, D., Mendillo, M., Noble, S.,
+Papike, J. J, Reedy, R. C., Lawson, S., Prettyman, T.,
+Gasnault, O., Maurice, S., 2006. Understanding of the
+Lunar Surface and Space-Moon Interactions, Reviews in
+Mineralogy & Geochemistry, 60 83-219.
+NASA, 2017a, https://lunar.gsfc.nasa.gov (October 21, 2017)
+NASA, 2017b, https://www.nasa.gov/directorates/spacetech/
+centennial_challenges/3DPHab/index.html (October 21,
+2017)
+NASA, 2017c. https://www.nasa.gov/mission_pages/LRO/
+multimedia/lroimages/lola-20100319-maurius.html (Octo-
+ber 21, 2017)
+NASA, 2017d. https://ntrs.nasa.gov/search.jsp?R=19980001900
+(October 21, 2017)
+Metzger, A. E., Trombka, J. I., Peterson, L. E., Reedy, R.
+C., and Arnold, J. R., 1973, Lunar Surfaces Radioactivity:
+Preliminary Results of the Apollo 15 and 16 Gamma-Ray
+Spectrometer Experiments, Science, 179, 800-803.
+Omar, H. A. Production of Lunar Concrete using Molten
+Sulfer, NASA report (NASA, 2017d).
+Paige, D. A., Siegler, M. A., Zhang, J. A., Hayne, P. O.,
+Foote, E. J, Bennett, K. A., Vasavada, A. R., Greenhagen,
+B. T., Schofield, J. T., McCleese, D. J., Marc C. Foote,
+M. C., Eric DeJong, E., Bills, B. G., Hartford, W., Mur-
+ray, B. C., Allen, C. C., Snook, K., Soderblom, L. A.,
+Simon Calcutt, S., Taylor, F. W., Bowles, N. E., Band-
+field, J. L., Elphic, R., Ghent, R., Glotch, T. D., Wyatt,
+M. B., Lucey, P. G., 2010, Diviner Lunar Radiometer
+Observations of Cold Traps in the Moon’s South Polar
+Region. Science 330, 479-482.
+Shrunk, D. G., Sharpe, B. L., Cooper, B. L., Thangavelu
+M., 2008, The Moon, Resources, Future Developments,
+and Settlement, 2nd Edition, Praxis Publishing, Chiches-
+ter, UK, 561 pp.
+Slyuta. E. N., Abdrakhimov, A. M. Galimov E. M.,
+Venadsky V. I. 2007, The Estimation of Helium-3 Proba-
+ble Reserves in Lunar Regolith. LPSC 2007, Abstr. 2175.
+Space, 2017, http://www.space.com/images/i/000/025/835/
+original/lunar-base-foster-partners.jpg?1359754048 (Octo-
+ber 21, 2017)
+Sun, C. W., Takao, K., Kim, K. J., Choi, Y. J., 2017, Inves-
+tigation of a possible lunar lava tube in the north of the
+Rima Galilaei using the surface range of Kaguya Lunar
+Radar Sounder (LRS) data, Korea Journal of Remote
+Sensing 33(3), 313-324.
+Yamashita, N., Gasnault, O., Forni, O., d’Uston, C., Reedy,
+R. C., Karouji, Y., Kobayashi, S., Hareyama, M., Naga-
+oka, H., Hasebe, N., Kim, K. J., 2012, The global distri-
+bution of calcium on the Moon: Implications for high Ca
+proxyene in the eastern mare region, Earth and Planetary
+Science Letters, 353-354, 93-98.
+Wagner, R. V. and Robinson, M. S., 2014, Distribution, for-
+mation mechanisms and significance of lunar pits, Icarus,
+237, 52-60.
+Wikipedia, 2017a, https://en.wikipedia.org/wiki/Exploration_
+of_the_Moon (October 21, 2017)
+Wikipedia, 
+2017b, 
+https://en.wikipedia.org/wiki/Luna_24
+(October 21, 2017)
+Wikipedia, 
+2017c. 
+https://en.wikipedia.org/wiki/Marius_
+Hills (October 21, 2017)
+Wittenberg, L. J. 1988, Terrestrial Sources of Helium-3
+Fusion Fuel-A Trip to the Center of the Earth, the 8th
+Topical meeting on the Technology of Fusion Energy, 9-
+13 October 1988, Salt Lake City UT. 
+Zhu, M-H., Chang, J., Xie, M., Fritz, J., Fernandes, V. A.,
+Ip, W-H, Ma, T., Xe, A., 2015, The uniform K distribu-
+tion of the mare deposits in the oriental basin: Insights
+from Chang’E-2 gmma-ray spectrometer, Earth and Plan-
+etary Science Letters, 418, 172-181.
+Received October 23, 2017
+Review started October 24, 2017
+Accepted October 30, 2017
+
+--------------------
