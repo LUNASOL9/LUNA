@@ -1,3 +1,4 @@
+import json  # GPT가 JSON을 반환할 때, JSON을 파싱하기 위해 필요
 import os
 
 from dotenv import load_dotenv
@@ -63,10 +64,12 @@ while True:
         for tool_call in ai_message.tool_calls:
             # 실행할 함수 이름
             tool_name = tool_call.function.name
+            # GPT는 get_current_time() 함수 호출 시, arguments를 JSON 문자열로 전달함
+            arguments = json.loads(tool_call.function.arguments)
 
             if tool_name == "get_current_time":
                 # 함수가 반환한 현재 시간을 저장
-                result = get_current_time()
+                result = get_current_time(timezone=arguments.get("timezone"))
             else:
                 # 등록되지 않은 함수는 실행하지 않고 안내 문구를 반환
                 result = f"지원하지 않는 함수: {tool_name}"
