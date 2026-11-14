@@ -17,8 +17,8 @@ LLM 활용 실습 모음(OpenAI API, Function Calling, PDF 요약, Whisper + pya
 | GPU 패키지 (6단계) | torch 2.7.1+cu128, pyannote.audio 3.3.2 등 | 설치됨 (CUDA 인식 확인) | 3절 |
 | FFmpeg | 빌드 폴더 또는 PATH | 9.0.2 설치됨 (PATH) | `winget install --id Gyan.FFmpeg -e --source winget` |
 | VS Code 확장 | Python, Ruff, Jupyter | 설치됨 | `code --install-extension ...` |
-| **OpenAI API 키** | 필수 | **직접 발급 필요 (2절)** | 2절 |
-| **Hugging Face 토큰 + 모델 약관 동의** | 6단계에 필수 | **직접 필요 (2절)** | 2절 |
+| OpenAI API 키 | 필수 | `.env`에 설정됨 (호출 확인) | 2절 |
+| Hugging Face 토큰 + 모델 약관 동의 | 6단계에 필수 | `.env`에 설정됨 (모델 접근 확인) | 2절 |
 
 ## 2. 직접 해야 할 것
 
@@ -88,7 +88,7 @@ GPU 확인:
 python -c "import torch; print(torch.__version__, torch.cuda.is_available(), torch.cuda.get_device_name(0))"
 ```
 
-이 PC에서 확인한 결과(2026-11-14): `2.7.1+cu128 True NVIDIA GeForce RTX 4060 Ti`. 모든 패키지 import와 `torchaudio.load`로 `Forward_Base_Taking_a_Day_Off.mp3` 읽기도 성공했습니다. **OpenAI 호출과 Whisper/pyannote 모델 실행은 API 키와 토큰이 없어 아직 확인하지 못했습니다.**
+이 PC에서 확인한 결과(2026-11-14): `2.7.1+cu128 True NVIDIA GeForce RTX 4060 Ti`. 모든 패키지 import와 `torchaudio.load`로 `Forward_Base_Taking_a_Day_Off.mp3` 읽기도 성공했습니다. `.env` 작성 후 `python gpt_basic\gpt_basic.py`가 응답을 받았고, Hugging Face 토큰으로 `pyannote/speaker-diarization-3.1`과 `pyannote/segmentation-3.0` 두 모델에 접근되는 것도 확인했습니다. `whisper_stt_last.py` 전체 실행(모델 다운로드 포함)은 아직 해 보지 않았습니다.
 
 ## 4. FFmpeg
 
