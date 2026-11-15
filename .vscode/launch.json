@@ -1,0 +1,37 @@
+{
+    // VS Code 디버깅 설정 파일의 형식 버전
+    "version": "0.2.0",
+
+    // 사용할 디버깅 설정 목록
+    "configurations": [
+        {
+            // '실행 및 디버그' 메뉴에 표시할 이름
+            "name": "Streamlit 디버깅",
+
+            // 파이썬 디버거 사용
+            "type": "debugpy",
+
+            // 프로그램을 새로 실행하면서 디버깅 시작
+            "request": "launch",
+
+            // 파이썬 파일을 직접 실행하지 않고 streamlit 모듈 실행
+            // python -m streamlit 명령에 해당
+            "module": "streamlit",
+
+            // streamlit 뒤에 붙일 실행 인자
+            "args": [
+                "run",
+
+                // 현재 VS Code에서 열어둔 파일의 전체 경로
+                // 디버깅할 Streamlit .py 파일을 선택한 상태에서 F5 실행
+                "${file}"
+            ],
+
+            // 로그와 오류 메시지를 VS Code 내장 터미널에 표시
+            "console": "integratedTerminal",
+
+            // 외부 라이브러리 내부보다 내가 작성한 코드를 중심으로 디버깅
+            "justMyCode": true
+        }
+    ]
+}

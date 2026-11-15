@@ -186,3 +186,7 @@ chap14/sec05/data/*
 chap15/*/data/*
 chap16/sec01/chroma_store/*
 chap16/data/*
+
+# 실제 회의 녹음과 회의록 결과 (개인·회사 정보가 들어 있어 올리지 않음)
+whisper/audio/meeting_record*
+whisper/audio/*_minutes_*/
