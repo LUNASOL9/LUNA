@@ -3,7 +3,13 @@ import os
 
 import streamlit as st
 from dotenv import load_dotenv
-from gpt_function import get_current_time, get_yf_stock_info, tools
+from gpt_function import (
+    get_current_time,
+    get_yf_stock_history,
+    get_yf_stock_info,
+    get_yf_stock_recommendations,
+    tools,
+)
 from openai import OpenAI
 
 load_dotenv()
@@ -81,6 +87,15 @@ if user_input := st.chat_input("메시지를 입력해 주세요"):
                         result = get_current_time(timezone=arguments.get("timezone"))
                     elif tool_name == "get_yf_stock_info":
                         result = get_yf_stock_info(ticker=arguments.get("ticker"))
+                    elif tool_name == "get_yf_stock_history":
+                        result = get_yf_stock_history(
+                            ticker=arguments.get("ticker"),
+                            period=arguments.get("period"),
+                        )
+                    elif tool_name == "get_yf_stock_recommendations":
+                        result = get_yf_stock_recommendations(
+                            ticker=arguments.get("ticker")
+                        )
                     else:
                         result = f"지원하지 않는 함수: {tool_name}"
 
